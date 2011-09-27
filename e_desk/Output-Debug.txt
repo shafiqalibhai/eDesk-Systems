@@ -1,0 +1,31 @@
+Auto-attach to process '[1092] aspnet_wp.exe' on machine 'KTPL3' succeeded.
+'DefaultDomain': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\mscorlib.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.web\1.0.5000.0__b03f5f7f11d50a3a\system.web.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system\1.0.5000.0__b77a5c561934e089\system.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.enterpriseservices\1.0.5000.0__b03f5f7f11d50a3a\system.enterpriseservices.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.enterpriseservices\1.0.5000.0__b03f5f7f11d50a3a\system.enterpriseservices.thunk.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.data\1.0.5000.0__b77a5c561934e089\system.data.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.drawing\1.0.5000.0__b03f5f7f11d50a3a\system.drawing.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.xml\1.0.5000.0__b77a5c561934e089\system.xml.dll', No symbols loaded.
+'DefaultDomain': Loaded 'c:\winnt\assembly\gac\system.web.regularexpressions\1.0.5000.0__b03f5f7f11d50a3a\system.web.regularexpressions.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\mscorlib.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.web\1.0.5000.0__b03f5f7f11d50a3a\system.web.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system\1.0.5000.0__b77a5c561934e089\system.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.enterpriseservices\1.0.5000.0__b03f5f7f11d50a3a\system.enterpriseservices.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.enterpriseservices\1.0.5000.0__b03f5f7f11d50a3a\system.enterpriseservices.thunk.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.data\1.0.5000.0__b77a5c561934e089\system.data.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.drawing\1.0.5000.0__b03f5f7f11d50a3a\system.drawing.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.xml\1.0.5000.0__b77a5c561934e089\system.xml.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.web.regularexpressions\1.0.5000.0__b03f5f7f11d50a3a\system.web.regularexpressions.dll', No symbols loaded.
+The thread '<No Name>' (0x40c) has exited with code 0 (0x0).
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.web.services\1.0.5000.0__b03f5f7f11d50a3a\system.web.services.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\system.web.mobile\1.0.5000.0__b03f5f7f11d50a3a\system.web.mobile.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\assembly\dl2\6a24bf41\de74bce7_195ec601\e_desk.dll', Symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\fq6gp_sw.dll', Symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\assembly\gac\microsoft.visualbasic\7.0.5000.0__b03f5f7f11d50a3a\microsoft.visualbasic.dll', No symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\4vkhfpex.dll', Symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\qk5_5xcu.dll', Symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\hilt1q4m.dll', Symbols loaded.
+'/LM/w3svc/1/root/e_desk-4-127892906782968750': Loaded 'c:\winnt\microsoft.net\framework\v1.1.4322\temporary asp.net files\e_desk\9d4a435e\478b8587\ilipmzsx.dll', Symbols loaded.
+The program '[1092] aspnet_wp.exe: DefaultDomain' has exited with code 0 (0x0).
+The program '[1092] aspnet_wp.exe: /LM/w3svc/1/root/e_desk-4-127892906782968750' has exited with code 0 (0x0).

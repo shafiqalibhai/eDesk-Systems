@@ -1,0 +1,1 @@
+<%@ Application Inherits="e_desk.Global" Language="VB" %>

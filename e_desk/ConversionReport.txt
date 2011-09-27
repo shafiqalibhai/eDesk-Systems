@@ -1,0 +1,119 @@
+﻿This report shows the steps taken to convert your Web application from ASP.NET 1.1 to ASP.NET 2.0. 
+There may be some unresolved conversion issues you will need to manually fix. 
+For more information, please refer to http://go.microsoft.com/fwlink/?LinkId=46995 or search for the help topic "Converting from Visual Studio .NET 2002 or 2003".
+Conversion Started on project file e_desk.vbproj at January 11 2008, 04:20:26.
+
+=========================ERRORS===================
+
+=========================COMMENTS=================
+Web.Config: Added 'xhtmlConformance' attribute.
+Removed attribute Codebehind from file addhduser.aspx.
+Warning: Access level of 'e_desk.addhduser' changed to 'Partial' in file addhduser.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file addhduser.aspx.vb.    addhduser.aspx.vb (Line 16)
+Removed attribute CodeBehind from file admin_index.aspx.
+Warning: Access level of 'e_desk.admin_index' changed to 'Partial' in file admin_index.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file admin_index.aspx.vb.    admin_index.aspx.vb (Line 13)
+Removed attribute Codebehind from file admin_main_menu.aspx.
+Warning: Access level of 'e_desk.WebForm1' changed to 'Partial' in file admin_main_menu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file admin_main_menu.aspx.vb.    admin_main_menu.aspx.vb (Line 13)
+Removed attribute Codebehind from file categories_menu_admin.aspx.
+Warning: Access level of 'e_desk.categories_menu_admin' changed to 'Partial' in file categories_menu_admin.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file categories_menu_admin.aspx.vb.    categories_menu_admin.aspx.vb (Line 13)
+Removed attribute Codebehind from file categorymenu_hd.aspx.
+Warning: Access level of 'e_desk.categorymenu_hd' changed to 'Partial' in file categorymenu_hd.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file categorymenu_hd.aspx.vb.    categorymenu_hd.aspx.vb (Line 16)
+Removed attribute Codebehind from file closeproblem_user.aspx.
+Warning: Access level of 'e_desk.closeproblem_user' changed to 'Partial' in file closeproblem_user.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file closeproblem_user.aspx.vb.    closeproblem_user.aspx.vb (Line 16)
+Removed attribute Codebehind from file createcategory.aspx.
+Warning: Access level of 'e_desk.createcategory' changed to 'Partial' in file createcategory.aspx.vb (Line 7).
+Warning: Removed comment lines before designplaceholder declaration from file createcategory.aspx.vb.    createcategory.aspx.vb (Line 17)
+Removed attribute Codebehind from file createmodules.aspx.
+Warning: Access level of 'e_desk.createmodules' changed to 'Partial' in file createmodules.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file createmodules.aspx.vb.    createmodules.aspx.vb (Line 16)
+Removed attribute Codebehind from file deletecategory.aspx.
+Warning: Access level of 'e_desk.deletecategory' changed to 'Partial' in file deletecategory.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file deletecategory.aspx.vb.    deletecategory.aspx.vb (Line 16)
+Removed attribute Codebehind from file deletehduser.aspx.
+Warning: Access level of 'e_desk.deletehduser' changed to 'Partial' in file deletehduser.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file deletehduser.aspx.vb.    deletehduser.aspx.vb (Line 16)
+Removed attribute Codebehind from file deletemodules.aspx.
+Warning: Access level of 'e_desk.deletemodules' changed to 'Partial' in file deletemodules.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file deletemodules.aspx.vb.    deletemodules.aspx.vb (Line 16)
+Removed attribute Codebehind from file forgotpassword.aspx.
+Warning: Access level of 'e_desk.forgotpassword' changed to 'Partial' in file forgotpassword.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file forgotpassword.aspx.vb.    forgotpassword.aspx.vb (Line 16)
+Removed attribute Codebehind from file Global.asax.
+Removed attribute CodeBehind from file hduser_index.aspx.
+Warning: Access level of 'e_desk.hduser_index' changed to 'Partial' in file hduser_index.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file hduser_index.aspx.vb.    hduser_index.aspx.vb (Line 13)
+Removed attribute Codebehind from file hduser_main_leftmenu.aspx.
+Warning: Access level of 'e_desk.hduser_main_leftmenu' changed to 'Partial' in file hduser_main_leftmenu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file hduser_main_leftmenu.aspx.vb.    hduser_main_leftmenu.aspx.vb (Line 13)
+Removed attribute Codebehind from file hduser_main_menu.aspx.
+Warning: Access level of 'e_desk.hduser_main_menu' changed to 'Partial' in file hduser_main_menu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file hduser_main_menu.aspx.vb.    hduser_main_menu.aspx.vb (Line 13)
+Removed attribute Codebehind from file hduser_menu.aspx.
+Warning: Access level of 'e_desk.hduser_menu' changed to 'Partial' in file hduser_menu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file hduser_menu.aspx.vb.    hduser_menu.aspx.vb (Line 13)
+Removed attribute Codebehind from file hduser_reports_menu.aspx.
+Warning: Access level of 'e_desk.hduser_reports_menu' changed to 'Partial' in file hduser_reports_menu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file hduser_reports_menu.aspx.vb.    hduser_reports_menu.aspx.vb (Line 13)
+Removed attribute Codebehind from file index.aspx.
+Warning: Access level of 'e_desk.index' changed to 'Partial' in file index.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file index.aspx.vb.    index.aspx.vb (Line 16)
+Removed attribute Codebehind from file modifycategory.aspx.
+Warning: Access level of 'e_desk.modifycategory' changed to 'Partial' in file modifycategory.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file modifycategory.aspx.vb.    modifycategory.aspx.vb (Line 16)
+Removed attribute Codebehind from file modifymodules.aspx.
+Warning: Access level of 'e_desk.modifymodules' changed to 'Partial' in file modifymodules.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file modifymodules.aspx.vb.    modifymodules.aspx.vb (Line 16)
+Removed attribute Codebehind from file modules_menu.aspx.
+Warning: Access level of 'e_desk.modules_menu' changed to 'Partial' in file modules_menu.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file modules_menu.aspx.vb.    modules_menu.aspx.vb (Line 13)
+Removed attribute Codebehind from file modulesmenu_hd.aspx.
+Warning: Access level of 'e_desk.modulesmenu_hd' changed to 'Partial' in file modulesmenu_hd.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file modulesmenu_hd.aspx.vb.    modulesmenu_hd.aspx.vb (Line 16)
+Removed attribute Codebehind from file problemsmenu_hd.aspx.
+Warning: Access level of 'e_desk.problemsmenu_hd' changed to 'Partial' in file problemsmenu_hd.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file problemsmenu_hd.aspx.vb.    problemsmenu_hd.aspx.vb (Line 16)
+Removed attribute Codebehind from file registeruser.aspx.
+Warning: Access level of 'e_desk.registeruser' changed to 'Partial' in file registeruser.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file registeruser.aspx.vb.    registeruser.aspx.vb (Line 16)
+Removed attribute Codebehind from file reports_menu_admin.aspx.
+Warning: Access level of 'e_desk.reports_menu_admin' changed to 'Partial' in file reports_menu_admin.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file reports_menu_admin.aspx.vb.    reports_menu_admin.aspx.vb (Line 16)
+Removed attribute Codebehind from file reportsmenu_hd.aspx.
+Warning: Access level of 'e_desk.reportsmenu_hd' changed to 'Partial' in file reportsmenu_hd.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file reportsmenu_hd.aspx.vb.    reportsmenu_hd.aspx.vb (Line 16)
+Removed attribute Codebehind from file signout.aspx.
+Warning: Access level of 'e_desk.signout' changed to 'Partial' in file signout.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file signout.aspx.vb.    signout.aspx.vb (Line 13)
+Removed attribute Codebehind from file titel.aspx.
+Warning: Access level of 'e_desk.titel' changed to 'Partial' in file titel.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file titel.aspx.vb.    titel.aspx.vb (Line 13)
+Removed attribute Codebehind from file updateinfo_user.aspx.
+Warning: Access level of 'e_desk.updateinfo_user' changed to 'Partial' in file updateinfo_user.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file updateinfo_user.aspx.vb.    updateinfo_user.aspx.vb (Line 16)
+Removed attribute CodeBehind from file user_index.aspx.
+Warning: Access level of 'e_desk.user_index' changed to 'Partial' in file user_index.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file user_index.aspx.vb.    user_index.aspx.vb (Line 13)
+Removed attribute Codebehind from file user_menu.aspx.
+Warning: Access level of 'e_desk.user_menu' changed to 'Partial' in file user_menu.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file user_menu.aspx.vb.    user_menu.aspx.vb (Line 16)
+Removed attribute Codebehind from file viewproblem_user.aspx.
+Warning: Access level of 'e_desk.viewproblem_user' changed to 'Partial' in file viewproblem_user.aspx.vb (Line 6).
+Warning: Removed comment lines before designplaceholder declaration from file viewproblem_user.aspx.vb.    viewproblem_user.aspx.vb (Line 16)
+Removed attribute Codebehind from file WebForm3.aspx.
+Warning: Access level of 'e_desk.WebForm3' changed to 'Partial' in file WebForm3.aspx.vb (Line 3).
+Warning: Removed comment lines before designplaceholder declaration from file WebForm3.aspx.vb.    WebForm3.aspx.vb (Line 13)
+Added folder App_Code.
+Moved file Global.asax.vb to the App_Code\ directory.
+Moved file AssemblyInfo.vb to the App_Code\ directory.
+Warning: Unable to convert user settings because user file C:\Documents and Settings\VENU\VSWebCache\VENU\e_desk\e_desk.vbproj.user was not found.
+Changed HTML validation schema for all projects to 'Internet Explorer 6.0'.
+Removed file Bin\e_desk.dll.
+Removed file Bin\e_desk.pdb.
+Removed file e_desk.vbproj.
+Removed file e_desk.vbproj.webinfo.
+Project e_desk.vbproj has been converted successfully at January 11 2008, 04:20:42.

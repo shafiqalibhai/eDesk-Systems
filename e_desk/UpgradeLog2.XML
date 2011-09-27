@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="e_desk">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\sandeep\Desktop\EdeskSystem\e_desk\e_desk.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\sandeep\Desktop\EdeskSystem\e_desk\e_desk.suo">
+</Property><Property Name="Date" Value="Monday, June 16, 2008">
+</Property><Property Name="Time" Value="19:51 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="e_desk.sln" Description="File successfully backed up as C:\Documents and Settings\sandeep\Desktop\EdeskSystem\e_desk\Backup1\e_desk.sln">
+</Event><Event ErrorLevel="0" Project="" Source="e_desk.suo" Description="File successfully backed up as C:\Documents and Settings\sandeep\Desktop\EdeskSystem\e_desk\Backup1\e_desk.suo">
+</Event><Event ErrorLevel="1" Project="e_desk" Source="http://localhost/e_desk/e_desk.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="http://localhost/e_desk/" Source="http://localhost/e_desk/" Description="ERROR: Failed to backup website http://localhost/e_desk/">
+</Event><Event ErrorLevel="0" Project="" Source="e_desk.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="e_desk.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,37 @@
+index
+registerUser
+forgetpassword
+
+I)   Help Desk Employee (hd user)
+
+   hd_user_menu
+   Catagory_menu_hd
+   Modules_menu_hd
+   Problems_menu_hd
+   Reports_menu_hd
+
+
+II)    Admin
+	admin_Main_Menu
+	1) hduser
+		addHdUser
+		deleteHdUser
+
+	2) category
+		CreateCategory
+		ModifyCategory
+		DeleteCategory
+	3) Modules
+                   		CreateModule
+		ModifyModule
+		DeleteModule
+	4) Reports
+                  		ReportsMenu_Admin
+
+III) Client
+                	user_menu (Post Problem)
+ 	Close_Problem_User
+	View_Problems
+	Update_Info_User
+
+
